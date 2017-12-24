@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Magic-8-Ball-Android.iml" filepath="$PROJECT_DIR$/Magic-8-Ball-Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magic-8-ball-android-artiom37.iml" filepath="$PROJECT_DIR$/magic-8-ball-android-artiom37.iml" />
     </modules>
   </component>
 </project>
